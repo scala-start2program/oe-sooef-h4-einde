@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scala.M2.Opdracht03.Wpf", "Scala.M2.Opdracht03.Wpf\Scala.M2.Opdracht03.Wpf.csproj", "{70AA2677-98B3-4AC0-92E8-4908A1F5E4EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scala.M2.Opdracht03.Core", "Scala.M2.Opdracht03.Core\Scala.M2.Opdracht03.Core.csproj", "{FF1EBFE9-8A75-400C-8A4B-517DF431F3AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70AA2677-98B3-4AC0-92E8-4908A1F5E4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AA2677-98B3-4AC0-92E8-4908A1F5E4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70AA2677-98B3-4AC0-92E8-4908A1F5E4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AA2677-98B3-4AC0-92E8-4908A1F5E4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF1EBFE9-8A75-400C-8A4B-517DF431F3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1EBFE9-8A75-400C-8A4B-517DF431F3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1EBFE9-8A75-400C-8A4B-517DF431F3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1EBFE9-8A75-400C-8A4B-517DF431F3AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF131DC2-ABA4-4B50-BC6A-FF5BD231A573}
+	EndGlobalSection
+EndGlobal
